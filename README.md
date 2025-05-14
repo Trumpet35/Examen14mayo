@@ -11,7 +11,7 @@
 
 - **Apartado2**
 
-- *** Estos son los pasos que debes seguir ***:
+- **Estos son los pasos que debes seguir**:
 - 1- *git init*
 - 2- *git add*
 - 3- *git commit -m ["Primer commit"]*
